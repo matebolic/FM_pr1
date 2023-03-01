@@ -71,6 +71,6 @@ I changed to flexbox, because the code looks more clearer in this case.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Balázs Máté
+- Frontend Mentor - [@matebolic]([https://www.frontendmentor.io/profile/matebolic])
 
